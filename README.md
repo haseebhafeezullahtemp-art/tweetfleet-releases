@@ -48,7 +48,7 @@ If X does not accept the cookies, the account card shows **Re-login**. Click it,
 4. Set **Repeat** (1–10) and **Delay** in seconds (minimum 15).
 5. Click **Publish now**.
 
-The automation browser is hidden during normal posting. It appears only when a login or bot check needs your attention. The tab stays open until the whole run finishes.
+The automation browser is hidden during normal posting. It appears only when a login or X security check needs your attention. If a security check appears, finish it in the window that opens, click **Save cookies**, then press **Publish now** again. The tab stays open until the whole run finishes.
 
 > Posting the same text many times or to many accounts can look like spam to X. Use a sensible repeat count and delay.
 
