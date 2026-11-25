@@ -13,7 +13,7 @@ Always download from the links above. Do not trust copies from other sites.
 
 ## Install
 
-1. Download **TweetFleet Setup x.x.x.exe**.
+1. Download the Windows installer **TweetFleet Setup x.x.x.exe** (GitHub may show the file name as `TweetFleet.Setup.x.x.x.exe`).
 2. Double-click it.
 3. Windows may show a SmartScreen warning because the app is not code-signed yet.
    - Click **More info**, then **Run anyway**.
