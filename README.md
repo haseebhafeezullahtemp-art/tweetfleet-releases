@@ -83,7 +83,7 @@ Your data is stored in:
 
 You can open this folder from **Settings → Open data folder**.
 
-Before an update, TweetFleet keeps a backup in the `backups` folder inside your data folder.
+Before installing an update, TweetFleet copies your accounts, cookies, settings, and activity history into a timestamped folder under `backups` inside your data folder. Uploaded media files are left where they are and are not replaced.
 
 ## Uninstall
 
